@@ -93,53 +93,21 @@ Relocation Planning                                                  │
 
 ## 🖥️ MVP Screens
 
-### 🔐 Authentication
+| 🔐 Authentication | 📊 Authority Dashboard |
+|:---:|:---:|
+| <img src="./screenshots/authentication.png" width="450"> | <img src="./screenshots/dashboard1.png" width="450"> |
 
-<!-- Add authentication screenshot here -->
+| 🗺️ GIS Risk Map | 🏘️ Habitation Ranking |
+|:---:|:---:|
+| <img src="screenshots/riskmap1.png" width="450"> | <img src="screenshots/habitationranking1.png" width="450"> |
 
-<br>
+| 🏕️ Safe Sites & Carrying Capacity | 🚚 Relocation Planning |
+|:---:|:---:|
+| <img src="screenshots/safesite1.png" width="450"> | <img src="screenshots/relocationplanning.png" width="450"> |
 
-### 📊 Authority Dashboard
-
-<!-- Add dashboard screenshot here -->
-
-<br>
-
-### 🗺️ GIS Risk Map
-
-<!-- Add risk map screenshot here -->
-
-<br>
-
-### 🏘️ Habitation Ranking
-
-<!-- Add habitation ranking screenshot here -->
-
-<br>
-
-### 🏕️ Safe Sites & Carrying Capacity
-
-<!-- Add safe sites screenshot here -->
-
-<br>
-
-### 🚚 Relocation Planning
-
-<!-- Add relocation planning screenshot here -->
-
-<br>
-
-### 🔬 Scenario Analysis
-
-<!-- Add scenario analysis screenshot here -->
-
-<br>
-
-### 👷 Field Verification
-
-<!-- Add field verification screenshot here -->
-
----
+| 🔬 Scenario Analysis | 👷 Field Verification |
+|:---:|:---:|
+| <img src="screenshots/scenario1.png" width="450"> | <img src="screenshots/fieldvalidation1.png" width="450"> |
 
 ## 👥 User Roles
 
